@@ -1,8 +1,6 @@
-# [Things you can do to help!](https://github.com/helpdao/help/issues)
-
-<br>
-
 # HelpDAO Overview
+
+> [Things you can do to help!](https://github.com/helpdao/help/issues)
 
 HelpDAO aims to launch local squads that **help vulnerable groups** in the current COVID-19 pandemic.
 
