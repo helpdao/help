@@ -2,7 +2,7 @@
 
 <br>
 
-# HelpDAO TL;DR:
+# HelpDAO Overview
 
 HelpDAO aims to launch local squads that **help vulnerable groups** in the current COVID-19 pandemic.
 
